@@ -1,0 +1,24 @@
+## ⚙️ Installation
+
+pip install scapy
+
+
+## ▶️ Usage
+
+sudo python main.py
+
+
+## 📌 Rule Customization
+Edit `rules.py`:
+- Block IPs
+- Block ports
+- Block protocols
+
+## 📊 Output
+- Console logs
+- firewall_log.txt
+
+## 🔮 Future Enhancements
+- GUI interface (Tkinter)
+- iptables integration
+- Intrusion detection system
